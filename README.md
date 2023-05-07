@@ -1,4 +1,4 @@
-<h1 align="center">Stock Price Prediction using LSTM and LSM</h1>
+<h1 align="center">Stock Price Prediction using LSTM and LMS</h1>
 
 <h2>Major Project May 2023</h2>
 <p>Semester 8 Major project. Developed a web application for predicting close stock price using LMS and LSTM algorithms for prediction and make more informed and accurate investment decisions.
